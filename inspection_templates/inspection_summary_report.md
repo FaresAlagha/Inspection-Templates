@@ -3,8 +3,8 @@
 
 ## Inspection Identification
 
-- **Project:** _______________________________________________
-- **Meeting Date:** _______________________________________________
+- **Project:** 2
+- **Meeting Date:** 11/22/2026
 
 ## Work Product Description
 
